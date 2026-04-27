@@ -251,4 +251,4 @@ Body → raw → JSON:
 
 ## Author
 
-Made by **Your Name**
+Made by **Manish Rajak**
