@@ -1,5 +1,4 @@
 //definig task schemas
-//schema for user
 const mongoose = require("mongoose");
 
 
@@ -19,8 +18,10 @@ const taskSchema = new mongoose.Schema({
         required:true,
         ref:'User'   //owner is coming from user collection 
     }
-})
-
+},{
+    timestamps:true
+});
+ 
 
 
  
