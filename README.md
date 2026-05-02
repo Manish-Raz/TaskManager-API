@@ -1,5 +1,5 @@
 # Task Manager API
->this is the man
+
 
 A simple **Task Manager REST API** built with **Node.js**, **Express.js**, and **MongoDB** that allows users to register, authenticate, and manage their tasks.
 
