@@ -1,6 +1,6 @@
 # Task Manager API
 
-
+![Python](https://img.shields.io/badge/Python-3.12-blue)
 A simple **Task Manager REST API** built with **Node.js**, **Express.js**, and **MongoDB** that allows users to register, authenticate, and manage their tasks.
 
 ## Features
